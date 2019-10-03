@@ -1,4 +1,4 @@
-## App Todo - Front-end
+## App Todo - back-end
 ### react , redux
 
 #### para instalar , rode o comando 
